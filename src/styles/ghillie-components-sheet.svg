@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .txt { font-family: Inter, ui-sans-serif; fill: #FFFFFF; }
+      .muted { fill: #8F9BA8; }
+      .title { font-size: 20px; font-weight: 700; }
+      .body { font-size: 14px; font-weight: 500; }
+    </style>
+  </defs>
+  <rect width="1600" height="1200" fill="#0E0F11"/>
+  <text x="40" y="60" class="txt title">Component Library — The Ghillie Suite</text>
+  <text x="40" y="84" class="muted body">Import this SVG into Figma. Select groups and press ⌘/Ctrl + Alt + K to create components. Notes are inline.</text>
+  <text x="40" y="120" class="txt title">Buttons</text>
+  <rect x="40" y="140" width="120" height="40" rx="10" fill="#77FF91"/><text x="60" y="166" class="txt body" fill="#0E0F11">Primary</text>
+  <rect x="180" y="140" width="120" height="40" rx="10" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/><text x="202" y="166" class="txt body">Secondary</text>
+  <rect x="320" y="140" width="120" height="40" rx="10" fill="none" stroke="#8F9BA8"/><text x="350" y="166" class="muted body">Ghost</text>
+  <rect x="460" y="140" width="120" height="40" rx="10" fill="#FF5C5C"/><text x="492" y="166" class="txt body" fill="#0E0F11">Danger</text>
+  <text x="40" y="196" class="muted body">Make Variants: default/hover/pressed/disabled.</text>
+  <text x="40" y="240" class="txt title">Inputs</text>
+  <rect x="40" y="260" width="280" height="36" rx="8" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/>
+  <text x="52" y="284" class="muted body">Placeholder…</text>
+  <rect x="340" y="260" width="220" height="36" rx="8" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/>
+  <text x="352" y="284" class="muted body">Dropdown ▾</text>
+  <rect x="580" y="260" width="44" height="24" rx="12" fill="#8F9BA8"/><circle cx="592" cy="272" r="10" fill="#171A1F"/>
+  <rect x="640" y="260" width="44" height="24" rx="12" fill="#77FF91"/><circle cx="662" cy="272" r="10" fill="#0E0F11"/>
+  <rect x="704" y="260" width="18" height="18" rx="4" fill="none" stroke="#8F9BA8"/>
+  <rect x="734" y="260" width="18" height="18" rx="4" fill="#77FF91"/>
+  <text x="40" y="320" class="txt title">Signal Chips</text>
+  <rect x="40" y="340" width="80" height="28" rx="14" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/><text x="50" y="360" class="muted body">Vol↑</text>
+  <rect x="130" y="340" width="100" height="28" rx="14" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/><text x="140" y="360" class="muted body">Whales+</text>
+  <rect x="240" y="340" width="110" height="28" rx="14" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/><text x="250" y="360" class="muted body">SocBuzz↑</text>
+  <text x="40" y="400" class="txt title">Cards</text>
+  <rect x="40" y="420" width="320" height="180" rx="12" fill="#23262E"/>
+  <text x="56" y="444" class="txt body">Token Card</text>
+  <rect x="56" y="454" width="288" height="12" rx="6" fill="#171A1F"/>
+  <rect x="56" y="472" width="288" height="12" rx="6" fill="#171A1F"/>
+  <rect x="56" y="490" width="180" height="12" rx="6" fill="#171A1F"/>
+  <rect x="380" y="420" width="360" height="200" rx="12" fill="#23262E"/>
+  <text x="396" y="444" class="txt body">Razor Trade Card</text>
+  <rect x="396" y="454" width="320" height="12" rx="6" fill="#171A1F"/>
+  <rect x="396" y="472" width="320" height="12" rx="6" fill="#171A1F"/>
+  <rect x="396" y="490" width="320" height="12" rx="6" fill="#171A1F"/>
+  <rect x="396" y="512" width="320" height="36" rx="8" fill="#77FF91"/><text x="528" y="536" class="txt body" fill="#0E0F11">Execute</text>
+  <text x="40" y="640" class="txt title">Banners</text>
+  <rect x="40" y="660" width="700" height="40" rx="8" fill="#FFC857"/><text x="52" y="686" class="txt body" fill="#0E0F11">Warning: Low liquidity detected</text>
+  <rect x="40" y="710" width="700" height="40" rx="8" fill="#FF5C5C"/><text x="52" y="736" class="txt body" fill="#0E0F11">Error: Contract flags present — review</text>
+  <text x="40" y="770" class="txt title">Table (row)</text>
+  <rect x="40" y="790" width="960" height="48" rx="8" fill="#23262E"/>
+  <rect x="52" y="804" width="280" height="20" rx="6" fill="#171A1F"/>
+  <rect x="344" y="804" width="200" height="20" rx="6" fill="#171A1F"/>
+  <rect x="556" y="804" width="160" height="20" rx="6" fill="#171A1F"/>
+  <rect x="728" y="804" width="120" height="20" rx="6" fill="#171A1F"/>
+  <text x="40" y="860" class="muted body">Notes: Group logical blocks and convert to components. Add Variants for states. Bind colors to your Variables library later.</text>
+</svg>

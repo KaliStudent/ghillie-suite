@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+body { @apply bg-charcoal text-white; font-feature-settings: "tnum"; }
+.card { @apply bg-slate/90 rounded-xl shadow-md border border-white/10; }

@@ -1,0 +1,33 @@
+{
+  "color": {
+    "palette": {
+      "charcoal": {
+        "value": "#0E0F11"
+      },
+      "gunmetal": {
+        "value": "#171A1F"
+      },
+      "slate": {
+        "value": "#23262E"
+      },
+      "fog": {
+        "value": "#8F9BA8"
+      },
+      "accent": {
+        "value": "#77FF91"
+      },
+      "warning": {
+        "value": "#FFC857"
+      },
+      "danger": {
+        "value": "#FF5C5C"
+      },
+      "white": {
+        "value": "#FFFFFF"
+      },
+      "black": {
+        "value": "#000000"
+      }
+    }
+  }
+}
