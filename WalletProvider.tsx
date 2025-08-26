@@ -8,7 +8,7 @@ import "@solana/wallet-adapter-react-ui/styles.css";
 
 require("@solana/wallet-adapter-react-ui/styles.css");
 
-export const GhillieWalletProvider: FC<{ children: ReactNode }> = ({ children }) => {
+export const WalletProvider: FC<{ children: ReactNode }> = ({ children }) => {
   const network = WalletAdapterNetwork.Devnet;
   const wallets = useMemo(
     () => [
