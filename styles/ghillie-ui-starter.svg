@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1600" viewBox="0 0 1920 1600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .txt { font-family: Inter, ui-sans-serif; fill: #FFFFFF; }
+      .muted { fill: #8F9BA8; }
+      .headline { font-size: 28px; font-weight: 800; }
+      .title { font-size: 18px; font-weight: 700; }
+      .body { font-size: 14px; font-weight: 500; }
+      .mono { font-family: JetBrains Mono, monospace; font-size: 12px; fill: #8F9BA8; }
+    </style>
+  </defs>
+  <rect width="1920" height="1600" fill="#0E0F11"/>
+  <text x="40" y="60" class="txt headline">The Ghillie Suite — UI Starter (Desktop + Mobile)</text>
+  <text x="40" y="88" class="muted body">Notes are embedded near components. Import this SVG into a Figma DESIGN file and convert groups to Components (⌘/Ctrl + Alt + K).</text>
+  <rect x="40" y="120" width="1280" height="760" rx="16" fill="#171A1F" stroke="rgba(255,255,255,0.08)" />
+  <text x="52" y="146" class="muted body">Desktop • 1280×760</text>
+  <rect x="40" y="120" width="1280" height="64" fill="#23262E" rx="16"/>
+  <text x="60" y="160" class="txt title">THE GHILLIE SUITE</text>
+  <rect x="360" y="135" width="320" height="36" rx="8" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/>
+  <text x="372" y="158" class="muted body">Search tokens, mints, wallets…</text>
+  <rect x="1140" y="132" width="160" height="40" rx="10" fill="#77FF91"/>
+  <text x="1160" y="158" class="txt body" fill="#0E0F11">Connect Wallet</text>
+  <text x="40" y="106" class="muted body">Note: Global nav with search + wallet action</text>
+  <rect x="40" y="184" width="200" height="696" rx="12" fill="#23262E"/>
+  <text x="60" y="216" class="txt body">Coin Pit</text>
+  <text x="60" y="246" class="muted body">Screeners</text>
+  <text x="60" y="276" class="muted body">Alerts</text>
+  <text x="60" y="306" class="muted body">Backtests (Pro)</text>
+  <text x="60" y="336" class="muted body">Docs</text>
+  <text x="60" y="366" class="muted body">Settings</text>
+  <text x="50" y="410" class="muted mono">Note: Left rail items. Highlight = active.</text>
+  <rect x="260" y="200" width="260" height="560" rx="12" fill="#23262E" />
+  <text x="272" y="224" class="txt title">Live Tape</text>
+  <rect x="272" y="240" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="268" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="296" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="324" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="352" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="380" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="408" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="436" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="464" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="492" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="520" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="548" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="576" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="604" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="632" width="228" height="18" rx="6" fill="#171A1F"/><rect x="272" y="660" width="228" height="18" rx="6" fill="#171A1F"/>
+  <text x="262" y="780" class="muted mono">Note: Virtualized stream; color-code up/down; whale prints badge.</text>
+  <rect x="540" y="200" width="520" height="360" rx="12" fill="#23262E"/>
+  <text x="552" y="224" class="txt title">Chart</text>
+  <rect x="560" y="240" width="480" height="300" rx="8" fill="#171A1F"/>
+  <text x="560" y="558" class="muted mono">Note: Hook to Lightweight Charts; tabs 1m/5m/1h above.</text>
+  <rect x="1080" y="200" width="240" height="560" rx="12" fill="#23262E"/>
+  <text x="1092" y="224" class="txt title">Signals</text>
+  <text x="1092" y="252" class="muted body">CamoScore</text>
+  <rect x="1092" y="260" width="200" height="10" rx="5" fill="#171A1F"/>
+  <rect x="1092" y="260" width="142" height="10" rx="5" fill="#77FF91"/>
+  <text x="1298" y="268" class="muted mono">71</text>
+  <text x="1092" y="294" class="muted body">Ghillie Intel</text>
+  <text x="1092" y="312" class="txt body">Likely ↑ next 2–6h • Conf 68%</text>
+  <text x="1092" y="340" class="muted body">Sentiment</text>
+  <text x="1092" y="358" class="txt body">Mentions +23% • Positive</text>
+  <rect x="1092" y="390" width="208" height="250" rx="10" fill="#171A1F"/>
+  <text x="1106" y="412" class="txt body">Razor Trades</text>
+  <text x="1106" y="436" class="muted body">Entry</text>
+  <rect x="1156" y="420" width="120" height="20" rx="6" fill="#23262E"/>
+  <text x="1106" y="464" class="muted body">Targets</text>
+  <rect x="1106" y="472" width="190" height="10" rx="6" fill="#23262E"/>
+  <rect x="1106" y="490" width="190" height="10" rx="6" fill="#23262E"/>
+  <text x="1106" y="518" class="muted body">SL</text>
+  <rect x="1136" y="508" width="160" height="14" rx="6" fill="#23262E"/>
+  <rect x="1096" y="550" width="200" height="36" rx="8" fill="#77FF91"/>
+  <text x="1152" y="573" class="txt body" fill="#0E0F11">Execute</text>
+  <text x="1084" y="780" class="muted mono">Note: Premium-gated features marked here.</text>
+  <text x="40" y="902" class="muted body">Guidance: Convert major groups (Nav, Left Rail, Live Tape, Chart, Signals, Razor Trades) to Components. Use Variants for states.</text>
+  <text x="1340" y="146" class="txt title">Component Sheet</text>
+  <rect x="1340" y="170" width="120" height="40" rx="10" fill="#77FF91"/><text x="1360" y="196" class="txt body" fill="#0E0F11">Primary</text>
+  <rect x="1470" y="170" width="120" height="40" rx="10" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/><text x="1492" y="196" class="txt body">Secondary</text>
+  <rect x="1600" y="170" width="120" height="40" rx="10" fill="none" stroke="#8F9BA8"/><text x="1630" y="196" class="muted body">Ghost</text>
+  <rect x="1730" y="170" width="120" height="40" rx="10" fill="#FF5C5C"/><text x="1760" y="196" class="txt body" fill="#0E0F11">Danger</text>
+  <text x="1340" y="220" class="muted mono">Note: Create Variants (hover/pressed/disabled).</text>
+  <text x="1340" y="260" class="txt body">Inputs</text>
+  <rect x="1340" y="272" width="240" height="36" rx="8" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/>
+  <text x="1352" y="296" class="muted body">Placeholder…</text>
+  <rect x="1590" y="272" width="160" height="36" rx="8" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/>
+  <text x="1602" y="296" class="muted body">Dropdown ▾</text>
+  <rect x="1340" y="320" width="44" height="24" rx="12" fill="#8F9BA8"/><circle cx="1352" cy="332" r="10" fill="#171A1F"/>
+  <rect x="1400" y="320" width="44" height="24" rx="12" fill="#77FF91"/><circle cx="1422" cy="332" r="10" fill="#0E0F11"/>
+  <rect x="1470" y="320" width="18" height="18" rx="4" fill="none" stroke="#8F9BA8"/>
+  <rect x="1500" y="320" width="18" height="18" rx="4" fill="#77FF91"/>
+  <rect x="1340" y="360" width="80" height="28" rx="14" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/><text x="1350" y="379" class="muted body">Vol↑</text>
+  <rect x="1430" y="360" width="100" height="28" rx="14" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/><text x="1440" y="379" class="muted body">Whales+</text>
+  <rect x="1540" y="360" width="110" height="28" rx="14" fill="#171A1F" stroke="rgba(255,255,255,0.08)"/><text x="1550" y="379" class="muted body">SocBuzz↑</text>
+  <text x="1340" y="406" class="muted mono">Note: Use as multi-select filters and signal badges.</text>
+  <rect x="1340" y="430" width="510" height="40" rx="8" fill="#FFC857"/><text x="1352" y="456" class="txt body" fill="#0E0F11">Warning: Low liquidity detected</text>
+  <rect x="1340" y="480" width="510" height="40" rx="8" fill="#FF5C5C"/><text x="1352" y="506" class="txt body" fill="#0E0F11">Error: Contract flags present — review</text>
+  <rect x="1340" y="540" width="260" height="150" rx="10" fill="#23262E"/>
+  <text x="1354" y="562" class="txt body">Razor Trade</text>
+  <rect x="1354" y="570" width="220" height="10" rx="6" fill="#171A1F"/>
+  <rect x="1354" y="590" width="220" height="10" rx="6" fill="#171A1F"/>
+  <rect x="1354" y="610" width="220" height="10" rx="6" fill="#171A1F"/>
+  <rect x="1354" y="630" width="220" height="28" rx="8" fill="#77FF91"/><text x="1416" y="650" class="txt body" fill="#0E0F11">Execute</text>
+  <text x="1340" y="690" class="muted mono">Note: Convert each block to a Component. Then build Variants.</text>
+  <rect x="40" y="980" width="390" height="780" rx="32" fill="#171A1F"/>
+  <text x="52" y="1006" class="muted body">Mobile • 390×780</text>
+  <rect x="40" y="980" width="390" height="56" rx="32" fill="#23262E"/>
+  <text x="56" y="1016" class="txt body">Ghillie Suite</text>
+  <rect x="60" y="1050" width="330" height="36" rx="10" fill="#23262E"/>
+  <text x="72" y="1074" class="muted body">Search…</text>
+  <rect x="60" y="1100" width="330" height="160" rx="12" fill="#23262E"/>
+  <text x="72" y="1124" class="txt body">Signals</text>
+  <rect x="60" y="1270" width="330" height="240" rx="12" fill="#23262E"/>
+  <text x="72" y="1294" class="txt body">Razor Trades</text>
+  <rect x="72" y="1500" width="294" height="36" rx="8" fill="#77FF91"/>
+  <text x="160" y="1524" class="txt body" fill="#0E0F11">Execute</text>
+  <text x="450" y="1006" class="muted mono">Note: Stacked sections; keep CTA sticky on scroll.</text>
+</svg>
