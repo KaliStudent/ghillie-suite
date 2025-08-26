@@ -1,17 +1,16 @@
+// src/components/Chart.tsx
 
-import { useEffect, useRef } from "react";
+import { forwardRef } from "react";
 
-export const Chart = () => {
-  const ref = useRef<HTMLDivElement | null>(null);
-
-  useEffect(() => {
-    if (ref.current) {
-      const ctx = ref.current.getContext("2d");
-      if (ctx) {
-        // Optional chart logic here
-      }
-    }
-  }, []);
-
-  return <div ref={ref} className="rounded-lg border border-white/10 bg-gunmetal h-48" />;
-};
+// Chart component using forwardRef
+export const Chart = forwardRef<HTMLDivElement>((_, ref) => {
+  return (
+    <div
+      ref={ref}
+      className="rounded-lg border border-white/10 bg-gunmetal h-64 flex items-center justify-center text-white"
+    >
+      {/* Placeholder content */}
+      <span className="text-white text-sm">Chart will render here</span>
+    </div>
+  );
+});
